@@ -14,9 +14,9 @@ Visualiser la performance par zone géographique
 
 Soutenir la prise de décision stratégique
 
-# **Méthodologie** : Le projet commence par l’import des données, avec le chargement du dataset Excel ou CSV depuis la source pédagogique. Ensuite, un nettoyage est effectué, incluant la suppression des doublons, la gestion des valeurs manquantes et le formatage des données. La phase de transformation (ETL) est réalisée via Power Query, permettant la structuration, la normalisation et l’ajout de colonnes calculées. La modélisation s’appuie sur un schéma en étoile, comprenant une table de faits et des tables de dimensions. Puis, le dashboarding permet de visualiser les KPIs et d’ajouter des filtres interactifs. Enfin, l’analyse consiste à interpréter les résultats et à en tirer des insights stratégiques.
+#**Méthodologie:** Le projet commence par l’import des données, avec le chargement du dataset Excel ou CSV depuis la source pédagogique. Ensuite, un nettoyage est effectué, incluant la suppression des doublons, la gestion des valeurs manquantes et le formatage des données. La phase de transformation (ETL) est réalisée via Power Query, permettant la structuration, la normalisation et l’ajout de colonnes calculées. La modélisation s’appuie sur un schéma en étoile, comprenant une table de faits et des tables de dimensions. Puis, le dashboarding permet de visualiser les KPIs et d’ajouter des filtres interactifs. Enfin, l’analyse consiste à interpréter les résultats et à en tirer des insights stratégiques.
 
-# **Technologies Utilisées** : Le projet exploite Power BI Desktop pour la visualisation et le reporting, Power Query pour l’ETL et la transformation des données, et DAX pour la création de mesures et le suivi des KPIs. Les données sources proviennent de fichiers Excel ou CSV.
+#**Technologies Utilisées** : Le projet exploite Power BI Desktop pour la visualisation et le reporting, Power Query pour l’ETL et la transformation des données, et DAX pour la création de mesures et le suivi des KPIs. Les données sources proviennent de fichiers Excel ou CSV.
 
 # **KPIs Développés**
 
