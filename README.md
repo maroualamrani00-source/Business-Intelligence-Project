@@ -38,7 +38,7 @@ Analyse temporelle (Mensuelle / Annuelle)
  <img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/06d9a0f3-43a0-4007-8718-b0366fe978eb" />
  # Conclusion
  
-# Ce projet démontre:
+ Ce projet démontre:
 ✔ Maîtrise de Power BI & Power Query
 ✔ Compréhension du cycle BI complet (Import → ETL → Modélisation → Visualisation)
 ✔ Capacité d’analyse business et construction de dashboards interactifs
