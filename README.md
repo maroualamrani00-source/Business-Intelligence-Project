@@ -42,6 +42,7 @@ Analyse temporelle (Mensuelle / Annuelle)
 ✔ Maîtrise de Power BI & Power Query
 ✔ Compréhension du cycle BI complet (Import → ETL → Modélisation → Visualisation)
 ✔ Capacité d’analyse business et construction de dashboards interactifs
+
 # Contact
 
  Email :maroualamrani00@gmail.com
