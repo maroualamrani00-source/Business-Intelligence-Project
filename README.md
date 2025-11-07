@@ -1,6 +1,6 @@
 # Business-Intelligence-Project
 Dashboard Power BI  
-#**Objectif du Projet**
+# **Objectif du Projet**
 
 Analyser les performances commerciales d’une entreprise afin de :
 
