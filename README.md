@@ -1,53 +1,79 @@
-# Business-Intelligence-Project
-Dashboard Power BI  
-# Objectif du Projet
+<h1 style="color:#66C0F4; font-family:Georgia;">Business Intelligence Project</h1>
 
-Analyser les performances commerciales d’une entreprise afin de :
+<p style="font-family:Georgia; color:#E5E5E5;">
+Dashboard Power BI pour analyser les performances commerciales d’une entreprise et soutenir la prise de décision stratégique.
+</p>
 
-Suivre les indicateurs clés de ventes
+<h2 style="color:#66C0F4; font-family:Georgia;">Objectif du Projet</h2>
 
-Identifier les produits les plus rentables
+<p style="font-family:Georgia; color:#E5E5E5;">
+Le projet a pour objectifs de :
+<ul>
+<li>Suivre les indicateurs clés de ventes</li>
+<li>Identifier les produits les plus rentables</li>
+<li>Comprendre le comportement client</li>
+<li>Visualiser la performance par zone géographique</li>
+<li>Soutenir la prise de décision stratégique</li>
+</ul>
+</p>
 
-Comprendre le comportement client
+<h2 style="color:#66C0F4; font-family:Georgia;">Méthodologie</h2>
 
-Visualiser la performance par zone géographique
+<p style="font-family:Georgia; color:#E5E5E5;">
+Le projet commence par l’import des données (Excel ou CSV). Un nettoyage est effectué : suppression des doublons, gestion des valeurs manquantes, formatage.  
+La phase ETL est réalisée via Power Query pour structurer et normaliser les données, avec ajout de colonnes calculées.  
+La modélisation suit un schéma en étoile (table de faits + tables de dimensions).  
+Le dashboarding permet de visualiser les KPIs avec des filtres interactifs.  
+Enfin, l’analyse des résultats fournit des insights stratégiques.
+</p>
 
-Soutenir la prise de décision stratégique
-# Méthodologie
+<h2 style="color:#66C0F4; font-family:Georgia;">Technologies Utilisées</h2>
 
-Le projet commence par l’import des données, avec le chargement du dataset Excel ou CSV depuis la source pédagogique. Ensuite, un nettoyage est effectué, incluant la suppression des doublons, la gestion des valeurs manquantes et le formatage des données. La phase de transformation (ETL) est réalisée via Power Query, permettant la structuration, la normalisation et l’ajout de colonnes calculées. La modélisation s’appuie sur un schéma en étoile, comprenant une table de faits et des tables de dimensions. Puis, le dashboarding permet de visualiser les KPIs et d’ajouter des filtres interactifs. Enfin, l’analyse consiste à interpréter les résultats et à en tirer des insights stratégiques.
+<p style="font-family:Georgia; color:#E5E5E5;">
+Power BI Desktop, Power Query (ETL), DAX pour les mesures et le suivi des KPIs.  
+Sources : fichiers Excel ou CSV.
+</p>
 
-# Technologies Utilisées
-Le projet exploite Power BI Desktop pour la visualisation et le reporting, Power Query pour l’ETL et la transformation des données, et DAX pour la création de mesures et le suivi des KPIs. Les données sources proviennent de fichiers Excel ou CSV.
-# KPIs Développés
+<h2 style="color:#66C0F4; font-family:Georgia;">KPIs Développés</h2>
 
-Chiffre d'affaires total
+<p style="font-family:Georgia; color:#E5E5E5;">
+<ul>
+<li>Chiffre d'affaires total</li>
+<li>Quantité vendue</li>
+<li>Profit & marge</li>
+<li>Top produits & catégories</li>
+<li>Analyse géographique des ventes</li>
+<li>Analyse temporelle (Mensuelle / Annuelle)</li>
+</ul>
+</p>
 
-Quantité vendue
+<h2 style="color:#66C0F4; font-family:Georgia;">Aperçu du Dashboard</h2>
 
-Profit & marge
+<p style="font-family:Georgia; color:#E5E5E5;">
+<img width="926" height="545" alt="image" src="https://github.com/user-attachments/assets/0c5fe5ad-d62b-485c-9b3a-f566607aafbb" />
 
-Top produits & catégories
+<img width="916" height="544" alt="image" src="https://github.com/user-attachments/assets/0e85e109-af72-460b-bebf-c639dd327c4b" />
 
-Analyse géographique des ventes
+<img width="905" height="547" alt="image" src="https://github.com/user-attachments/assets/f2c8a96e-de94-441c-a094-1672812fdb11" />
 
-Analyse temporelle (Mensuelle / Annuelle)
- # Aperçu du Dashboard
- <img width="1365" height="705" alt="image" src="https://github.com/user-attachments/assets/a3f39482-b8a2-4803-9d60-e276b99cec66" />
- <img width="1365" height="699" alt="image" src="https://github.com/user-attachments/assets/dd3d38d4-8aca-4824-84ea-66c1ef29584e" />
- <img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/06d9a0f3-43a0-4007-8718-b0366fe978eb" />
- 
- # Conclusion
- 
- Ce projet démontre:
-✔ Maîtrise de Power BI & Power Query
-✔ Compréhension du cycle BI complet (Import → ETL → Modélisation → Visualisation)
-✔ Capacité d’analyse business et construction de dashboards interactifs
+<h2 style="color:#66C0F4; font-family:Georgia;">Conclusion</h2>
 
-# Contact
+<p style="font-family:Georgia; color:#E5E5E5;">
+Ce projet démontre :
+<ul>
+<li>Maîtrise de Power BI & Power Query</li>
+<li>Compréhension du cycle BI complet (Import → ETL → Modélisation → Visualisation)</li>
+<li>Capacité d’analyse business et construction de dashboards interactifs</li>
+</ul>
+</p>
 
- Email :maroualamrani00@gmail.com
- LinkedIn :www.linkedin.com/in/maroua-lamrani-4bb291375
+<h2 style="color:#66C0F4; font-family:Georgia;">Contact</h2>
+
+<p style="font-family:Georgia; color:#E5E5E5;">
+Email : <strong>maroualamrani00@gmail.com</strong><br>
+LinkedIn : <a href="https://www.linkedin.com/in/maroua-lamrani-4bb291375" style="color:#A8D0E6;">www.linkedin.com/in/maroua-lamrani-4bb291375</a>
+</p>
+
  
 
 
